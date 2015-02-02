@@ -1,0 +1,6 @@
+# Created by .gitignore support plugin (hsz.mobi)
+## Directory-based project format
+.idea/
+
+## additional images
+templates/skin/default/assets/img2
